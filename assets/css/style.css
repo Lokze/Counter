@@ -1,11 +1,11 @@
 @font-face{  /*Font Roboto Medium 500 italic*/
     font-family: "RobotoM500I";
-    src: url("/Counter/assets/font/Roboto-MediumItalic.ttf");
+    src: url("/assets/font/Roboto-MediumItalic.ttf");
 }
 
 
 body {
-    background-image: url("/Counter/assets/img/math.jpg");
+    background-image: url("/assets/img/math.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
